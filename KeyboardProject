@@ -1,0 +1,31 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>KiCad BOM Example 5</title>
+    </head>
+    <body>
+    <h1>/Users/henriprudhomme/Desktop/KeyboardProject/KeyboardProject.sch</h1>
+    <p>Friday, March 20, 2020 at 10:49:36 PM</p>
+    <p>Eeschema (5.1.5-0-10_14)</p>
+    <p><b>Component Count:</b>160</p>
+    <table>
+    <tr><th style='width:640px'>Ref</th><th>Qnty</th><th>Value</th><th>Part</th><th>Footprint</th><th>Description</th><th>Vendor</th></tr>
+    <tr><td>D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D40, D41, D42, D43, D44, D45, D46, D47, D48, D49, D50, D51, D52, D53, D54, D55, D56, D57, D58, D59, D60, D61, D62, D63, D64, D65, D66, D67, D68, D69, D70, D71, D72, D73, D74, D75, D76, D77, D78</td><td>78</td><td>BAT42W-V</td><td>Diode:BAT42W-V</td><td>Diode_SMD:D_SOD-123</td><td>30V 0.2A Small Signal Schottky diode, SOD-123</td><td></td></tr>
+    <tr><td>J1</td><td>1</td><td>USB_C_Receptacle_USB2.0</td><td>Connector:USB_C_Receptacle_USB2.0</td><td>USB4085-GF-A_REVA:GCT_USB4085-GF-A_REVA</td><td>USB 2.0-only Type-C Receptacle connector</td><td></td></tr>
+    <tr><td>R1, R2</td><td>2</td><td>R</td><td>Device:R</td><td>SOD3715X135N:SOD3715X135N</td><td>Resistor</td><td></td></tr>
+    <tr><td>SW1, SW2, SW6, SW7, SW8, SW9, SW10, SW11, SW12, SW13, SW14, SW15, SW16, SW17, SW18, SW19, SW20, SW21, SW22, SW24, SW25, SW26, SW27, SW28, SW29, SW30, SW31, SW32, SW33, SW34, SW35, SW36, SW37, SW38, SW40, SW41, SW42, SW43, SW44, SW45, SW46, SW47, SW48, SW49, SW50, SW51, SW52, SW53, SW54, SW56, SW57, SW58, SW59, SW60, SW62, SW63, SW64, SW65, SW66, SW67, SW68, SW69, SW70, SW72, SW76, SW77</td><td>66</td><td>SW_Push</td><td>Switch:SW_Push</td><td>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</td><td>Push button switch, generic, two pins</td><td></td></tr>
+    <tr><td>SW3, SW74</td><td>2</td><td>SW_Push</td><td>Switch:SW_Push</td><td>Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB</td><td>Push button switch, generic, two pins</td><td></td></tr>
+    <tr><td>SW4, SW71</td><td>2</td><td>SW_Push</td><td>Switch:SW_Push</td><td>Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB</td><td>Push button switch, generic, two pins</td><td></td></tr>
+    <tr><td>SW5, SW73</td><td>2</td><td>SW_Push</td><td>Switch:SW_Push</td><td>Button_Switch_Keyboard:SW_Cherry_MX_2.00u_PCB</td><td>Push button switch, generic, two pins</td><td></td></tr>
+    <tr><td>SW23, SW55, SW61</td><td>3</td><td>SW_Push</td><td>Switch:SW_Push</td><td>Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB</td><td>Push button switch, generic, two pins</td><td></td></tr>
+    <tr><td>SW39</td><td>1</td><td>SW_Push</td><td>Switch:SW_Push</td><td>Button_Switch_Keyboard:SW_Cherry_MX_6.25u_PCB</td><td>Push button switch, generic, two pins</td><td></td></tr>
+    <tr><td>SW75</td><td>1</td><td>SW_Push</td><td>Switch:SW_Push</td><td>Button_Switch_Keyboard:SW_Cherry_MX_2.25u_PCB</td><td>Push button switch, generic, two pins</td><td></td></tr>
+    <tr><td>SW82</td><td>1</td><td>Rotary_Encoder_Switch</td><td>Device:Rotary_Encoder_Switch</td><td>Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm</td><td>Rotary encoder, dual channel, incremental quadrate outputs, with switch</td><td></td></tr>
+    <tr><td>U1</td><td>1</td><td>Teensy4.0</td><td>teensy:Teensy4.0</td><td>teensy:Teensy40</td><td></td><td></td></tr><!--TABLEROW-->
+    </table>
+    </body>
+</html>
+    

@@ -1,0 +1,5 @@
+ws2812b LED footprint and symbol
+https://www.snapeda.com/parts/1655/Adafruit%20Industries%20LLC/view-part/53433/
+
+How usb c works
+https://www.youtube.com/watch?v=sOnSNd0hL2Q
